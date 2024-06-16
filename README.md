@@ -10,4 +10,4 @@ Este proyecto no necesita instalación
 *[Linkedin](https://www.linkedin.com/in/pedro-luis-s%C3%A1nchez-397608217/)
 
 # Ver ejemplo en vivo
--[ENLACESGITHUBPAGES](https://pedrolu47.github.io/)
+-[Pedrolu47-PortFolio](https://pedrolu47.github.io/)

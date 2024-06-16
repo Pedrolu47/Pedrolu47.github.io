@@ -8,3 +8,6 @@ Este proyecto no necesita instalación
 # Contacto
 *[Email](pedrol1973@plsinfor.com)
 *[Linkedin](https://www.linkedin.com/in/pedro-luis-s%C3%A1nchez-397608217/)
+
+# Ver ejemplo en vivo
+-[ENLACESGITHUBPAGES](https://pedrolu47.github.io/)
